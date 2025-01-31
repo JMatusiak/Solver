@@ -1,0 +1,16 @@
+C:\Users\kloni\Desktop\solver\QuadraticEquationSolver\bin\Debug\net5.0\QuadraticEquationSolver.exe
+C:\Users\kloni\Desktop\solver\QuadraticEquationSolver\bin\Debug\net5.0\QuadraticEquationSolver.deps.json
+C:\Users\kloni\Desktop\solver\QuadraticEquationSolver\bin\Debug\net5.0\QuadraticEquationSolver.runtimeconfig.json
+C:\Users\kloni\Desktop\solver\QuadraticEquationSolver\bin\Debug\net5.0\QuadraticEquationSolver.runtimeconfig.dev.json
+C:\Users\kloni\Desktop\solver\QuadraticEquationSolver\bin\Debug\net5.0\QuadraticEquationSolver.dll
+C:\Users\kloni\Desktop\solver\QuadraticEquationSolver\bin\Debug\net5.0\ref\QuadraticEquationSolver.dll
+C:\Users\kloni\Desktop\solver\QuadraticEquationSolver\bin\Debug\net5.0\QuadraticEquationSolver.pdb
+C:\Users\kloni\Desktop\solver\QuadraticEquationSolver\obj\Debug\net5.0\QuadraticEquationSolver.csproj.AssemblyReference.cache
+C:\Users\kloni\Desktop\solver\QuadraticEquationSolver\obj\Debug\net5.0\QuadraticEquationSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kloni\Desktop\solver\QuadraticEquationSolver\obj\Debug\net5.0\QuadraticEquationSolver.AssemblyInfoInputs.cache
+C:\Users\kloni\Desktop\solver\QuadraticEquationSolver\obj\Debug\net5.0\QuadraticEquationSolver.AssemblyInfo.cs
+C:\Users\kloni\Desktop\solver\QuadraticEquationSolver\obj\Debug\net5.0\QuadraticEquationSolver.csproj.CoreCompileInputs.cache
+C:\Users\kloni\Desktop\solver\QuadraticEquationSolver\obj\Debug\net5.0\QuadraticEquationSolver.dll
+C:\Users\kloni\Desktop\solver\QuadraticEquationSolver\obj\Debug\net5.0\ref\QuadraticEquationSolver.dll
+C:\Users\kloni\Desktop\solver\QuadraticEquationSolver\obj\Debug\net5.0\QuadraticEquationSolver.pdb
+C:\Users\kloni\Desktop\solver\QuadraticEquationSolver\obj\Debug\net5.0\QuadraticEquationSolver.genruntimeconfig.cache
